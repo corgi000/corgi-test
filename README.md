@@ -1,4 +1,4 @@
 # corgi-test
 test
-aaaa
-bbbb
+あああ
+いいい
